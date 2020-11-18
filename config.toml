@@ -49,25 +49,11 @@ timeout=3000
 
 [[params.projects]]
 	[[params.projects.project]]
-		name = "Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor"
-		description  = "Enim facilisis gravida neque convallis a. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse.Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor. In nisl nisi scelerisque eu ultrices vitae auctor."
-		project_page = "https://myprojecthomepage.com"
-		code_link = "https://coderepo.com"
-		blog_link = "https://ablogpost.com"
-
- [[params.projects.project]]
-		name = "In nisl nisi scelerisque eu ultrices vitae auctor"
+		name = "Plataforma tecnológica semi-presencial de apoyo para atenciones odontológicas de urgencia y prioritarias del adulto mayor en el contexto de la pandemia COVID-19 en población chilena."
 		description  = ""
-		project_page = "https://myprojecthomepage.com"
-		code_link = "https://coderepo.com"
-		blog_link = ""
-
- [[params.projects.project]]
-		name = "Integer eget aliquet nibh praesent tristique magna"
-		description  = ""
-		project_page = "https://myprojecthomepage.com"
+		project_page = ""
 		code_link = ""
-		blog_link = "https://ablogpost.com"
+		blog_link = ""
 
 [[params.publications]]
   year="Preprint"
