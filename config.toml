@@ -12,31 +12,24 @@ timeout=3000
   blog=""
 
 [[params.affilation]]
-  name = "Stanford University"
-  position = "PhD Student"
-  contact = "hadi@cs.stanford.edu"
-
-[[params.affilation]]
-  name = "MyCoolStartup"
-  position = "Co-Founder"
-  contact = "hadi@mycoolstartup.ai"
+  name = "Universidad de Valparaíso"
+  position = "PhD Student & Lecturer"
+  contact = "eloy.alvarado@uv.cl"
 
 [[params.social]]
   name = "GitHub"
   icon = "github"
-  url = "https://github.com/hadisinaee"
+  url = "https://github.com/ealvnrz"
 
 [[params.social]]
   name = "Twitter"
   icon = "twitter"
-  url = "https://twitter.com/hadisinaee"
-
+  url = "https://twitter.com/ealvnrz"
 
 [[params.social]]
   name = "LinkedIn"
   icon = "linkedin"
-  url = "https://linkedin.com/in/hadisinaee/"
-
+  url = "https://linkedin.com/in/ealvnrz/"
 
 [[params.introduction.paragraph]]
   text="""Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
