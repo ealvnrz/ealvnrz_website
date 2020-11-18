@@ -1,15 +1,15 @@
-baseURL = "https://example.edu"
+baseURL = ""
 languageCode = "en-us"
-title = "Hadi Sinaee"
+title = "Eloy Alvarado Narváez"
 theme = "avicenna"
 googleAnalytics = "UA-1234-6"
 timeout=3000
 
 [params]
   subtitle= "PhD Student"
-  interests="Deep Reinforcement Learning, Machine Learning "
-  cv_name= "HadiSinaee_CV.pdf"
-  blog="http://myblog.edu"
+  interests="Spatial statistics, Stochastic processes "
+  cv_name= "CV_spanish.pdf"
+  blog=""
 
 [[params.affilation]]
   name = "Stanford University"
